@@ -6,3 +6,4 @@ Overview: This project implements a simple yet effective Least Significant Bit (
 #Features:
 
 Encoding: Embed secret messages or files into image files using the LSB technique. Decoding: Retrieve hidden messages or files from steganographic images. Support for BMP Images: The implementation works with BMP (Bitmap) image files, a widely used image format. User-friendly Interface: Simple command-line interface for ease of use
+![image](https://github.com/Ribizz007/LSB-Image-Steganography/assets/95741045/fc60db3c-4efe-4828-8100-917d378bb4e7)
