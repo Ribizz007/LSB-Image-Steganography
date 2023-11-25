@@ -16,13 +16,13 @@ How to Use:
 * The secret data is embedded in the least significant bits of the source image.
 bash
 
-./result.exe -e source_image.bmp secret.txt stego_image.bmp
+    ./result.exe -e source_image.bmp secret.txt stego_image.bmp
 
 2. Decoding:
 
-*Provide the stego image file name to retrieve the hidden data.
+* Provide the stego image file name to retrieve the hidden data.
 
-./result.exe -d stego_image.bmp
+     ./result.exe -d stego_image.bmp
 
 
 Getting Started:
@@ -30,9 +30,20 @@ Getting Started:
 1. Clone the repository:
 2. Compile the code:
 
- -> cd LSB-Image-Steganography
+      -> cd LSB-Image-Steganography
  
- ->make
+      ->make
+
+ 3. Run the executable with appropriate arguments.
+
+Contributing:
+
+Contributions are welcome! Please feel free to open issues, submit pull requests, or suggest any improvements.
+
+
+Disclaimer:
+
+Please use this tool responsibly and respect privacy and legal guidelines. The author is not responsible for any misuse or unlawful activities.
 
 
 
