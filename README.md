@@ -31,6 +31,7 @@ Getting Started:
 2. Compile the code:
 
  -> cd LSB-Image-Steganography
+ 
  ->make
 
 
